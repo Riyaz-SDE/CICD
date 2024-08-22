@@ -27,6 +27,6 @@ jobs:
       with:
         server: ftp.landsindia.in
         username: cicd-workflow@landsindia.in
-        password: ^&4ip?vOVyFJ
+        password: Riyaz124Riyaz
         protocol: sftp
         local-dir: ./build/
