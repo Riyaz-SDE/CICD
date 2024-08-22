@@ -26,7 +26,7 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@v4.3.4
       with:
         server: ftp.landsindia.in
-        username: cicd-workflow@landsindia.in
-        password: Riyaz124Riyaz
-        protocol: ftps
+        username: demo@landsindia.in
+        password: Demo124Demo124
+        protocol: ftp
         local-dir: ./build/
